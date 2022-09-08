@@ -1,5 +1,7 @@
 Shweta Dalal
+
 shwetadalal2457@gmail.com 
+
 A-number: A00466984
 
 Hello,
@@ -13,9 +15,12 @@ I and my fellow groupmates of my current masters program share quiet similar int
 My groupmates:
 
 -Arpan Patel:
+
+
 He is my from. He was a software developer and had major interest in software development which led him to choose MCDA program at Saint Mary's University. He is quiet eager to explore the field of Data Science through this course and seek opportunities in this field.
 
 -Mehul Patel:
+
 He is too from Gujarat, India. He has majorly worked in Database administration and related field in past and now he want to delve deeper and expand his horizon of knowledge by studying Computing and Data Analytics course at SMU.
 
 
