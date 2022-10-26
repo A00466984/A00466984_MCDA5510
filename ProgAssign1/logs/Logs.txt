@@ -1,0 +1,3 @@
+total skipped rows: 81104
+total rows: 199253
+Total Execution Time: 19208980 ms
